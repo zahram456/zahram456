@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zahra Muhammad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI+Enthusiast;Software+Engineering+Student;Web+Developer;Freelancer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI+Enthusiast;Software\+Engineer;Web+Developer;Freelancer" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ---
 
 ## About
-- Software Engineering student exploring real-world AI applications.
+- Software engineer exploring real-world AI applications.
 - Strong hands-on experience in Python and JavaScript projects.
 - Interested in building useful products that are simple, fast, and reliable.
 
@@ -74,5 +74,7 @@
 - LinkedIn: https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/
 - Email: zaharamuhammad456@gmail.com
 
-<p align="center"><i>Available for freelance work, collaborations, and student/research projects.</i></p>
+<p align="center"><i>Available for freelance work, collaborations, and research projects.</i></p>
+
+
 
