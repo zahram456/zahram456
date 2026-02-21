@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Zahra Muhammad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&color=7AA2F7&lines=AI+Enthusiast;Software+Engineer;Web+Developer;Freelancer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI+Enthusiast;Software+Engineer;Web+Developer;Freelancer" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zahram456"><img src="https://img.shields.io/badge/GitHub-zahram456-0D1117?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-Islamabad-1F2A44?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-5B21B6?style=for-the-badge" alt="Open to Collaboration"/>
+  <a href="https://github.com/zahram456"><img src="https://img.shields.io/badge/GitHub-zahram456-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Location-Islamabad-0A66C2?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge" alt="Open to Collaboration"/>
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zahram456&style=for-the-badge&color=7AA2F7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zahram456&style=for-the-badge&color=0A66C2" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="#1-about-me">About</a> |
-  <a href="#2-tech-stack">Tech Stack</a> |
-  <a href="#3-featured-projects">Projects</a> |
-  <a href="#4-github-insights">Insights</a> |
+  <a href="#1-about-me">About</a> •
+  <a href="#2-tech-stack">Tech Stack</a> •
+  <a href="#3-featured-projects">Projects</a> •
+  <a href="#4-github-insights">Insights</a> •
   <a href="#5-contact">Contact</a>
 </p>
 
@@ -70,16 +70,16 @@
 
 ## 4) GitHub Insights
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahram456&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahram456&theme=tokyonight" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahram456&theme=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahram456&theme=github" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=zahram456&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=zahram456&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahram456&theme=tokyo-night&area=true&hide_border=true&radius=8" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahram456&area=true&hide_border=true&radius=8" alt="GitHub activity graph"/>
 </p>
 
 ## 5) Contact
@@ -88,17 +88,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zaharamuhammad456@gmail.com"><img src="https://img.shields.io/badge/Email-Message-1E293B?style=for-the-badge&logo=gmail&logoColor=F9FAFB" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:zaharamuhammad456@gmail.com"><img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/softtech_era/"><img src="https://img.shields.io/badge/Instagram-softtech__era-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/zahram456"><img src="https://img.shields.io/badge/GitHub-Portfolio-0D1117?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/softtech_era/"><img src="https://img.shields.io/badge/Instagram-softtech__era-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/zahram456"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
 <p align="center"><i>Available for freelance work, collaborations, and research projects.</i></p>
-
 
 
 
