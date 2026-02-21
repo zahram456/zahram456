@@ -63,7 +63,6 @@
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=zahram456&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahram456&theme=github" alt="Most commit language"/>
 </p>
 
 <p align="center">
