@@ -18,14 +18,22 @@
   <img src="https://komarev.com/ghpvc/?username=zahram456&style=for-the-badge&color=0A66C2" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="#1-about-me">About</a> •
+  <a href="#2-tech-stack">Tech Stack</a> •
+  <a href="#3-featured-projects">Projects</a> •
+  <a href="#4-github-insights">Insights</a> •
+  <a href="#5-contact">Contact</a>
+</p>
+
 ---
 
-## About
+## 1) About Me
 - Software engineer exploring real-world AI applications.
 - Strong hands-on experience in Python and JavaScript projects.
 - Interested in building useful products that are simple, fast, and reliable.
 
-## Tech Stack
+## 2) Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sqlite,git,vscode" />
 </p>
@@ -36,7 +44,7 @@
 
 ---
 
-## Featured Projects
+## 3) Featured Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
@@ -55,7 +63,7 @@
 
 ---
 
-## GitHub Insights
+## 4) GitHub Insights
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahram456&theme=github" alt="GitHub stats"/>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahram456&theme=github" alt="Top languages"/>
@@ -69,7 +77,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahram456&area=true&hide_border=true&radius=8" alt="GitHub activity graph"/>
 </p>
 
-## Contact
+## 5) Contact
 <p align="center">
   <a href="mailto:zaharamuhammad456@gmail.com"><img src="https://img.shields.io/badge/Email-zaharamuhammad456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/"><img src="https://img.shields.io/badge/LinkedIn-Zahra%20Muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
