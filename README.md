@@ -73,6 +73,7 @@
 - GitHub: https://github.com/zahram456
 - LinkedIn: https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/
 - Email: zaharamuhammad456@gmail.com
+- Instagram: [add your Instagram URL]
 
 <p align="center"><i>Available for freelance work, collaborations, and research projects.</i></p>
 
