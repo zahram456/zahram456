@@ -57,16 +57,17 @@
 
 ## GitHub Insights
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zahram456&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahram456&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zahram456&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahram456&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=zahram456&hide_border=true" alt="GitHub streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=zahram456&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=zahram456&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahram456&area=true&hide_border=true" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahram456&area=true&hide_border=true&radius=8" alt="GitHub activity graph"/>
 </p>
 
 ## Contact
