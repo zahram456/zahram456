@@ -57,13 +57,13 @@
 
 ## GitHub Insights
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zahram456&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahram456&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahram456&theme=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahram456&theme=github" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=zahram456&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=zahram456&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahram456&theme=github" alt="Most commit language"/>
 </p>
 
 <p align="center">
