@@ -79,10 +79,17 @@
 
 ## 5) Contact
 <p align="center">
-  <a href="mailto:zaharamuhammad456@gmail.com"><img src="https://img.shields.io/badge/Email-zaharamuhammad456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/"><img src="https://img.shields.io/badge/LinkedIn-Zahra%20Muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <b>Let's connect and build something impactful.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:zaharamuhammad456@gmail.com"><img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/zahara-muhammad-3a675b3a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/softtech_era/"><img src="https://img.shields.io/badge/Instagram-softtech__era-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/zahram456"><img src="https://img.shields.io/badge/GitHub-zahram456-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/zahram456"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
 <p align="center"><i>Available for freelance work, collaborations, and research projects.</i></p>
