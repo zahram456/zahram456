@@ -33,6 +33,11 @@
 - Strong hands-on experience in Python and JavaScript projects.
 - Interested in building useful products that are simple, fast, and reliable.
 
+## Engineering Philosophy
+- Build for people first: usability and clarity matter as much as code quality.
+- Keep solutions practical: simple, maintainable systems beat over-engineered complexity.
+- Ship with responsibility: prioritize reliability, testing, and continuous improvement.
+
 ## 2) Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sqlite,git,vscode" />
